@@ -1,0 +1,10 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\CoreFramework",
+    "\\testFramework",
+    "\\testFramework\\PageObject"
+  ],
+  "SelectedNode": "\\testFramework\\PageObject\\HomePage.cs",
+  "PreviewInSolutionExplorer": false
+}
