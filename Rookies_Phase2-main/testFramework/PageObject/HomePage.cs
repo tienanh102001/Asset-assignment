@@ -30,16 +30,16 @@ namespace testFramework.PageObject
         public void ChangePassword(string newPass)
         {
             Click(btnMenu);
-            Click(btnChangePass);
-            SendKeys_(boxOldPass, oldPass);
+            Click(btnChange);
+            SendKeys_(boxCurrentPass, CurrentPass);
             SendKeys_(boxNewPass, newPass);
-            Click(btnSaveChange);
+            Click(btnSave);
         }
         public void CancelChangePassword()
         {
             Click(btnMenu);
-            Click(btnChangePass);
-            Click(btnCancelChange);
+            Click(btnChange);
+            Click(btnCancel);
         }
         public void Logout()
         {

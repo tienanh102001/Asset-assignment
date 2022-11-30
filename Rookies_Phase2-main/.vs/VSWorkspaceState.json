@@ -2,16 +2,15 @@
   "ExpandedNodes": [
     "",
     "\\CoreFramework",
-    "\\CoreFramework\\bin",
-    "\\CoreFramework\\bin\\Release",
     "\\CoreFramework\\DriverCore",
     "\\CoreFramework\\obj",
     "\\CoreFramework\\obj\\Debug",
     "\\CoreFramework\\obj\\Debug\\net6.0",
     "\\CoreFramework\\obj\\Release",
     "\\testFramework",
+    "\\testFramework\\Common",
     "\\testFramework\\PageObject"
   ],
-  "SelectedNode": "\\testFramework\\PageObject\\HomePage.cs",
+  "SelectedNode": "\\testFramework\\Common\\LoginFlow.cs",
   "PreviewInSolutionExplorer": false
 }

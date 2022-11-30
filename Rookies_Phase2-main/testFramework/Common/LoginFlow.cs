@@ -10,7 +10,7 @@ using testFramework.TestSetup;
 
 namespace testFramework.Common
 {
-    public class CommonFlow
+    public class LoginFlow
     {
         public void CMUserLogin(IWebDriver _driver)
         {
