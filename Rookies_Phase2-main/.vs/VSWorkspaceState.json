@@ -11,6 +11,6 @@
     "\\testFramework\\Common",
     "\\testFramework\\PageObject"
   ],
-  "SelectedNode": "\\testFramework\\Common\\LoginFlow.cs",
+  "SelectedNode": "\\testFramework\\PageObject\\HomePage.cs",
   "PreviewInSolutionExplorer": false
 }

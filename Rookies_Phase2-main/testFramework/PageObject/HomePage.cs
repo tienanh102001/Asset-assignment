@@ -26,7 +26,7 @@ namespace testFramework.PageObject
         private readonly string btnConfirmLog = "//span[text()='Log out']";
         private readonly string btnCancelLog = "//span[text()='Cancel']";
 
-        private readonly string oldPass = "vangdv@01011990";
+        private readonly string CurrentPass = "vangdv@01011990";
         public void ChangePassword(string newPass)
         {
             Click(btnMenu);
